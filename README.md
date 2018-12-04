@@ -5,20 +5,13 @@ This is a mirror of [axios](https://www.npmjs.com/package/apexcharts), bundled a
 ## Install
 
 ```
-npm install @komasoftware/apexcharts
-bower install komasoftware/apexcharts
+npm install https://github.com/komasoftware/apexcharts
 ```
 
 ## Use
 
-```html
-<script type="module">
-  // from main file
-  import { apexcharts } from 'apexcharts';
-  // or directly
-  import apexcharts from 'komasoftware/apexcharts.js';
-  console.log(axios);
-</script>
+```
+import { ApexCharts } from '@komasoftware/apexcharts';
 ```
 
 Make sure you added `@komasoftware` scope to the path if used via npm.
