@@ -1,6 +1,6 @@
 # apexcharts
 
-This is a mirror of [axios](https://www.npmjs.com/package/apexcharts), bundled and exposed as ES module.
+This is a mirror of [apexcharts](https://www.npmjs.com/package/apexcharts), bundled and exposed as ES module.
 
 ## Install
 
