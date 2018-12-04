@@ -1,6 +1,6 @@
 {
   "name": "@komasoftware/apexcharts",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "description": "mirror of apexcharts, bundled and exposed as ES module",
   "author": "Koen Maes <koen@koma.be>",
   "main": "index.js",
