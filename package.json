@@ -1,0 +1,15 @@
+{
+  "name": "@komasoftware/apexcharts",
+  "version": "0.18.0",
+  "description": "mirror of apexcharts, bundled and exposed as ES module",
+  "author": "Koen Maes <koen@koma.be>",
+  "main": "index.js",
+  "devDependencies": {
+    "apexcharts": "^2.2.4",
+    "rollup": "^0.62.0",
+    "rollup-plugin-commonjs": "^9.1.3"
+  },
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js"
+  }
+}

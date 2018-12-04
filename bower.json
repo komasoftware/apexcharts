@@ -1,0 +1,5 @@
+{
+  "name": "apexcharts",
+  "description": "mirror of apexcharts, bundled and exposed as ES module",
+  "author": "Koen Maes <koen@koma.be>"
+}
