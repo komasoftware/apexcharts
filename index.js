@@ -1,2 +1,3 @@
-import defaultApexCharts from './apexcharts.js';
+import defaultApexCharts from './apexcharts_es.js';
 export const ApexCharts = defaultApexCharts;
+
